@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [First Chapter](chapter1.md)
+* [课程开始之前](chapter1.md)
    * [报名](bao_ming.md)
 
