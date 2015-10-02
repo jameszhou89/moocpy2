@@ -1,3 +1,3 @@
 # 课程开始之前
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+学习写程序这件事情，已经努力很久了。
