@@ -13,12 +13,12 @@
 
 主要过程如下：
 
-    1.阅读官方文档，熟悉流程
-    通过[zoe](https://zoejane.gitbooks.io/zoe-py-tutorial/content/gitbook-github.html)和[jeremiah](https://jeremiahzhang.gitbooks.io/gitbookguide/content/setup/gitbookinstall.html)两个人的gitbook，进一步读懂了gitbook官方文档中 [github integration](https://help.gitbook.com/github/index.html)的内容。
-    2.解决gitbook setup的问题
+ 
+    1.解决gitbook setup的问题
     ![](gitbook.png)
     通过大妈的回复，了解了terminal中如何 run this command as administrator，解决了gitbook安装的问题。
     
-    
+    2.阅读官方文档，熟悉流程
+    通过[zoe](https://zoejane.gitbooks.io/zoe-py-tutorial/content/gitbook-github.html)和[jeremiah](https://jeremiahzhang.gitbooks.io/gitbookguide/content/setup/gitbookinstall.html)两个人的gitbook，进一步读懂了gitbook官方文档中 [github integration](https://help.gitbook.com/github/index.html)的内容。
     
 
