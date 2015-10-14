@@ -7,5 +7,5 @@
    * [三问](3questions.md)
 * Week1
    * [gitbook&github](gitbook&github.md)
-   * 插件Disqus
+   * [插件Disqus](cha_jian_disqus.md)
 
