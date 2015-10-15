@@ -9,5 +9,4 @@
 * [Week1](week1.md)
    * [gitbook&github](gitbook&github.md)
    * [插件Disqus](cha_jian_disqus.md)
-   * Week2
 
