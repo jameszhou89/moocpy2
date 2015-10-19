@@ -8,6 +8,7 @@
 * [Week1](week1.md)
    * [gitbook&github](gitbook&github.md)
    * [插件Disqus](cha_jian_disqus.md)
+   * github的使用规则
 * Week2
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
 
