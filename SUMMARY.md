@@ -13,6 +13,7 @@
 * [Week1](week1.md)
    * [offline c2t2](offline_c2t2.md)
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
+   * 第1个版本
 * [Week2](Week2)
    * 1w4 公开课
 
