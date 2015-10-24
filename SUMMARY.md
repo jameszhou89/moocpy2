@@ -1,8 +1,8 @@
 # Summary
 
 * [勇猛精进](README.md)
-   * [Week2](Week2)
-       * 1w4 online class
+* [Week2](Week2)
+   * 1w4 online class
 * [Before class](beforeclassmd.md)
    * [历史](history.md)
    * [报名开智](bao_ming.md)
