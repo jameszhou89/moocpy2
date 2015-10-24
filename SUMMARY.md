@@ -10,6 +10,7 @@
    * [插件Disqus](cha_jian_disqus.md)
    * [github的使用规则](github rules.md)
    * [错误1](mistake1.md)
+   * offline c2t2
 * [Week2](understanding github.md)
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
 
