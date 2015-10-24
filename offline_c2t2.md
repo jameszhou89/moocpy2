@@ -19,21 +19,30 @@
 
 ## 今日收获
 
-1.用 git 同步github
-之前的github本地和云端的同步是用github desktop同步的，
+
+### 1.用 git 同步github
+
+之前的github本地和云端的同步是用github desktop同步的，在教练的教唆下终于用上了git的操作，感觉很酸爽。
+
+附上git的操作 [Git Cheat Sheet Chinese](http://www.jianshu.com/p/c4ace9202a34)
 
 
-2.CLi的使用
+### 2.mac终端命令
+
+正如教练所言，确实还没有养成使用终端命令的习惯，比如一些常用的命令比如 ls/cd等都不熟练，新建文件以及修改文件名等都没有用终端操作过。
+
+后果就是，不知道如何在终端上调用 .py的文档~~~ 是的，这代表我交互101的第一个卡片，脚本调用没有看懂😢
 
 
-
-3._name_
-
+找到了一个[mac终端命令大全](http://www.douban.com/note/75797151/)，给需要的同学们
 
 
-4.peer learning
+### 3.peer learning
 
+到了C2T2的现场，才知道含义：Code to Thursday, Code to Teach。
+开智很强调同侪的相互学习和指导，这几周从线上阅读了很多同学的gitbook，得到了很多启发。今天的线下也是这样，每个同学开窍的地方不一样，跳过的坑也不一样，相互间学习的过程中教学相长。
 
+期待可以多多努力，为上海大区的python进步做出贡献：）
 
 
 
