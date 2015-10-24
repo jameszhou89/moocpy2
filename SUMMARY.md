@@ -5,7 +5,7 @@
    * [历史](history.md)
    * [报名开智](bao_ming.md)
    * [三问](3questions.md)
-* [Week0](week0.md)
+* [Week0](week0md.md)
    * [gitbook&github](gitbook&github.md)
    * [插件Disqus](cha_jian_disqus.md)
    * [github的使用规则](github rules.md)
