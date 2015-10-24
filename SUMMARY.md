@@ -14,5 +14,5 @@
    * [offline c2t2](offline_c2t2.md)
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
 * [Week2](Week2)
-   * 1w4 online class
+   * 1w4 公开课
 
