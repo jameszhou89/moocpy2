@@ -17,7 +17,7 @@
    * [第2个版本](2nd edition.md)
 * [Week2](week2.md)
    * [1w4 公开课](1w4_gong_kai_ke.md)
-   * [tkinter](tkinter.md)
+   * [tkinter入门](tkinter.md)
 * [Week3](week3.md)
    * [2w4](2w4.md)
 
