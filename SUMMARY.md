@@ -19,5 +19,5 @@
    * [1w4 公开课](1w4_gong_kai_ke.md)
    * [tkinter](tkinter.md)
 * Week3
-   * 2w4
+   * [2w4](2w4.md)
 
