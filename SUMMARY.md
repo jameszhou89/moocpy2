@@ -1,6 +1,7 @@
 # Summary
 
 * [勇猛精进](README.md)
+   * Week3
 * [Before class](beforeclassmd.md)
    * [历史](history.md)
    * [报名开智](bao_ming.md)
