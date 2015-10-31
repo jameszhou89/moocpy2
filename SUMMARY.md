@@ -19,8 +19,8 @@
    * [1w4 公开课](1w4_gong_kai_ke.md)
    * [tkinter入门](tkinter.md)
    * [GUI的前两个版本](GUI try.md)
-   * [Message控件](Message widget.md)
    * wizzly的解决之道
+   * [Message控件](Message widget.md)
 * [Week3](week3.md)
    * [2w4](2w4.md)
 
