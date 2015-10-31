@@ -35,7 +35,7 @@
 没有成功
 
 ## 正确的解决思路
-看到文档里面有 textvariable
+看到文档里面有 textvariable，[参考链接](http://effbot.org/tkinterbook/message.htm)
 
 ![](2015年11月1日 12-33-57.png)
 
