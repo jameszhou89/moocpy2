@@ -1,7 +1,6 @@
 # Summary
 
 * [勇猛精进](README.md)
-   * Week3
 * [Before class](beforeclassmd.md)
    * [历史](history.md)
    * [报名开智](bao_ming.md)
@@ -16,6 +15,7 @@
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
    * [第1个版本](1st edition.md)
    * [第2个版本](2nd edition.md)
+* Week3
 * [Week2](Week2)
    * [1w4 公开课](1w4_gong_kai_ke.md)
    * [tkinter](tkinter.md)
