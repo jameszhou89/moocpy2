@@ -23,5 +23,5 @@
    * [Message控件](Message widget.md)
 * [Week3](week3.md)
    * [2w4](2w4.md)
-   * [basic knowledge](jczs.md)
+   * [基础知识](jczs.md)
 
