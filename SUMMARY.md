@@ -24,5 +24,5 @@
 * [Week3](week3.md)
    * [2w4](2w4.md)
    * [基础知识](jczs.md)
-   * try socket
+   * [try socket](try_socket.md)
 
