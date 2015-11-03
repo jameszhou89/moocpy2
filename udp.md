@@ -1,4 +1,13 @@
-# UDP
+# 基础知识
+
+
+## iterm2
+
+http://www.iterm2.com/index.html
+
+
+
+## UDP
 
 http://zhidao.baidu.com/link?url=YSxgCSxg8xnGLofn7J0xiMZ03HmQwS7mWvyb_5ah9aSmMFezIyKLI6LUWM9_3Y4ulraZ4YbtpeNG96MNLC-8Zq
 
@@ -14,6 +23,8 @@ UDP协议从问世至今已经被使用了很多年，虽然其最初的光彩�
 3.反观UDP由于排除了信息可靠传递机制，将安全和排序等功能移交给上层应用来完成，极大降低了执行时间，使速度得到了保证。
 
 
+
+## C/S
 
 
 1.C/S 结构，即大家熟知的客户机和服务器结构。它是软件系统体系结构，通过它可以充分利用两端硬件环境的优势，将任务合理分配到Client端和Server端来实现，降低了系统的通讯开销。
