@@ -21,6 +21,7 @@
    * [GUI的前两个版本](GUI try.md)
    * [wizzly的解决之道](wizzly's solution.md)
    * [Message控件](Message widget.md)
+   * understanding class
 * [Week3](week3.md)
    * [2w4](2w4.md)
    * [基础知识](jczsmd.md)
