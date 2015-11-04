@@ -11,6 +11,14 @@ http://www.iterm2.com/index.html
 
 http://zhidao.baidu.com/link?url=YSxgCSxg8xnGLofn7J0xiMZ03HmQwS7mWvyb_5ah9aSmMFezIyKLI6LUWM9_3Y4ulraZ4YbtpeNG96MNLC-8Zq
 
+
+https://docs.python.org/2.7/library/socket.html#example
+
+
+https://pymotw.com/2/socket/udp.html
+
+
+
 1.UDP用来支持那些需要在计算机之间传输数据的网络应用。包括网络视频会议系统在内的众多的客户/服务器模式的网络应用都需要使用UDP协议。
 
 UDP协议从问世至今已经被使用了很多年，虽然其最初的光彩已经被一些类似协议所掩盖，但是即使是在今天UDP仍然不失为一项非常实用和可行的网络传输层协议。
