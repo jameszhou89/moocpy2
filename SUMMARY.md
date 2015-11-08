@@ -1,7 +1,6 @@
 # Summary
 
 * [勇猛精进](README.md)
-   * Week4
 * [Before class](beforeclassmd.md)
    * [历史](history.md)
    * [报名开智](bao_ming.md)
@@ -23,6 +22,7 @@
    * [wizzly的解决之道](wizzly's solution.md)
    * [Message控件](Message widget.md)
    * class
+* Week4
 * [Week3](week3.md)
    * [2w4](2w4.md)
    * [基础知识](jczsmd.md)
