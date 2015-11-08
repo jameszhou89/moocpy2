@@ -15,8 +15,18 @@ https://www.wireshark.org/
 
 ## import
 
+jamesmod.py
+    
+    def get_text():
+	    a =  "this is all your history notes"
+	    return a
+
+jamescaller.py
 
 
+    import jamesmod
+    print "print history"
+    print jamesmod.get_text()
 
 
 
