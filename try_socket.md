@@ -12,6 +12,28 @@
 
 官方代码存在的问题在于，socket只listen一遍，导致不能重复listen
 
+![](error02.png)
+
+只要做出如下修改即可：
+![](error3.png)
+
+
+
+## 再理解UDP
+
+发现之前的代码是STREAM，属于TCP/IP协议。😓
+
+按照wp-lai的提示，找到了这篇文档[：User Datagram Client and Server](https://pymotw.com/2/socket/udp.html)
+
+
+Where TCP is a stream oriented protocol, ensuring that all of the data is transmitted in the right order, UDP is a message oriented protocol. 
+   
+   UDP does not require a long-lived connection, so setting up a UDP socket is a little simpler. 
+
+
+以下图是socket的运行机制
+
+![](socket.png)
 
 
 
@@ -21,5 +43,3 @@
 
 
 
-
-## 如何理解UDP
