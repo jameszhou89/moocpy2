@@ -27,6 +27,7 @@
    * [基础知识](jczsmd.md)
    * [try socket](try_socket.md)
    * [Offline C2T2 W3](offline_c2t2 W3.md)
+   * 3w课程完成篇
 * [Week4](week4.md)
    * [3w online class](3wonline_class_md.md)
 
