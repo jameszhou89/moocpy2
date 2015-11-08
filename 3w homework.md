@@ -54,21 +54,28 @@
     import sys
 
     # Create a UDP socket
+     ~~ (创建UDPsocket)~~
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     server_address = ('localhost', 10000)
+    ~~（内网环境就用locahost,端口为10000）~~
+    
+    
     message=''
-
+    ~~（先定义要传输的文件名）~~
     while True:
         b_message = raw_input('>>> ')
+        ~~（持续输入的设计）~~
         if b_message=="Y":
             a_message = raw_input('>>> ')
             message += a_message + '\n'
             print >>sys.stderr, 'sending "%s"' % message
             sent = sock.sendto(message,server_address)
+            ~~（发送文件/数据到服务端）~~
             # Receive response
             print >>sys.stderr, 'waiting to receive'
             data, server = sock.recvfrom(4096)
-            print >>sys.stderr, 'received "%s"' % data
+            print >>sys.stderr, 'received "%s"' % data        
+            ~~（读取从服务端返回的文件）~~
         elif b_message=="N":
             break
     sock.close()
