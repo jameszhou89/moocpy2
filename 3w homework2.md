@@ -71,6 +71,49 @@
 
 
 
+### 客户端
+
+    import socket
+    import sys
+
+    #建立协议，当client发送信息为keyword时，返回所有日记历史信息
+    KEYWORD = 'P'
+
+    def main():
+        # Create a UDP socket
+        sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        server_address = ('localhost', 10000)
+          ~~  (创建一个UDP socket)~~
+        
+        sock.sendto(KEYWORD,server_address)
+          ~~  (发送"P"到服务端，让服务端读取文件里面所保存的数据)~~
+        data, server = sock.recvfrom(4096)
+          ~~  (接收服务端返回过来的文件数据)~~
+        print data
+
+  
+    while True:
+        b_message = raw_input('"if you want to continue print Y, want to quit print N " ')
+        if b_message=="Y":
+            a_message = raw_input('>>> ')
+            message = a_message
+          ~~  (输入一个数据)~~
+            print >>sys.stderr, 'sending "%s"' % message
+            sent = sock.sendto(message,server_address)
+         ~~  (将此时输入的数据发送到服务端)~~
+            if message=="q":
+              break
+            ~~  (客户端退出的机制)~~
+            # Receive response
+            print >>sys.stderr, 'waiting to receive'
+            data, server = sock.recvfrom(4096)
+            print >>sys.stderr, 'received "%s"' % data
+         ~~  (接收从服务端返回过来的数据)~~
+        elif b_message=="N":
+            break
+    sock.close()
+    if __name__ == '__main__':
+    main() 
 
 
 
