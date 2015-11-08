@@ -24,31 +24,54 @@
     import socket
     import sys
     
-    # Create a TCP/IP socket ~~（创建一个socket）~~
+    # Create a TCP/IP socket 
+    ~~（创建一个socket）~~
     sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     
-    # Bind the socket to the port~~(绑定端口)~~
+    # Bind the socket to the port
+    ~~(绑定端口)~~
     server_address = ('localhost', 10000)
     print >>sys.stderr, 'starting up on %s port %s' % server_address
     sock.bind(server_address)
 
     while True:
-        print >>sys.stderr, '\nwaiting to receive message'
-        data, address = sock.recvfrom(4096)~~（接受来自客户端的信息）~~
-    
+        data, address = sock.recvfrom(4096)
+        ~~（接受来自客户端的信息）~~
+        ~~（data为传输数据的名称）~~
         print >>sys.stderr, 'received %s bytes from %s' % (len(data), address)
-        
-        print >>sys.stderr, data~~（data为传输数据的名称）~~
-        
+        print >>sys.stderr, data
+        ~~（打印接收到的数据）~~
         if data:
-            sent = sock.sendto(data, address)~~（发送数据回到各个客户端）~~
+            sent = sock.sendto(data, address)
+            ~~（发送数据回到各个客户端）~~
             print >>sys.stderr, 'sent %s bytes back to %s' % (sent, address) 
-
-
 
 
 客户端
 
+    # Echo client program
+    import socket
+    import sys
+
+    # Create a UDP socket
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    server_address = ('localhost', 10000)
+    message=''
+
+    while True:
+        b_message = raw_input('>>> ')
+        if b_message=="Y":
+            a_message = raw_input('>>> ')
+            message += a_message + '\n'
+            print >>sys.stderr, 'sending "%s"' % message
+            sent = sock.sendto(message,server_address)
+            # Receive response
+            print >>sys.stderr, 'waiting to receive'
+            data, server = sock.recvfrom(4096)
+            print >>sys.stderr, 'received "%s"' % data
+        elif b_message=="N":
+            break
+    sock.close()
 
 
 
