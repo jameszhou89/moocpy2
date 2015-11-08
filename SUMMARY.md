@@ -26,5 +26,5 @@
    * [2w4](2w4.md)
    * [基础知识](jczsmd.md)
    * [try socket](try_socket.md)
-   * Offline C2T2
+   * [Offline C2T2](offline_c2t2 W3.md)
 
