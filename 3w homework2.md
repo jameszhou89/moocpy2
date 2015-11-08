@@ -17,7 +17,7 @@
 
 第二个版本总共有三个文件，server/client/jamesdiary.
 
-第三个文件就是1w课程的脚本，里面有如何读写和保存文档的函数。
+第三个文件就是1w课程的脚本，里面有如何读写和保存文档的函数。服务端会引用第三个文件的函数。
 
 
 ### 服务端
@@ -116,6 +116,37 @@
     main() 
 
 
+### 关于jamesdiary
+
+    import sys
+    import time
+    import os
+
+    if not os.path.exists('diary.txt'):
+        target= open('diary.txt', 'a')
+        target.close()
+    ~~（当不存在diary的文件时，自动生成一个文件）~~
+    
+    def writediary(data):
+        target = open("diary.txt", 'a+')
+        print "what do u want to say TODAY?"
+        print "I'm going to write these to the file diary.txt."
+        target.write(data+"  ")
+        target.write(time.strftime("%Y/%m/%d%H:%M:%S"))
+        target.write("\n")
+    ~~ （定义写diary.txt的函数，可以被服务端所调用）~~
+
+
+    def readdiary():
+        target = open("diary.txt")
+        return target.read()
+    ~~ （定义读取diary.txt的函数，可以被服务端所调用）~~
+    
+    def main():
+        writediary()
+
+    if __name__ == '__main__':
+        main()
 
 
 
