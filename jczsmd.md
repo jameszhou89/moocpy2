@@ -14,9 +14,6 @@ http://zhidao.baidu.com/link?url=YSxgCSxg8xnGLofn7J0xiMZ03HmQwS7mWvyb_5ah9aSmMFe
 https://docs.python.org/2.7/library/socket.html#example
 
 
-https://pymotw.com/2/socket/udp.html
-
-
 
 1.UDP用来支持那些需要在计算机之间传输数据的网络应用。包括网络视频会议系统在内的众多的客户/服务器模式的网络应用都需要使用UDP协议。
 
@@ -39,3 +36,10 @@ UDP协议从问世至今已经被使用了很多年，虽然其最初的光彩�
 
 2.Client和Server常常分别处在相距很远的两台计算机上，Client程序的任务是将用户的要求提交给Server程序，再将Server程序返回的结果以特定的形式显示给用户；Server程序的任务是接收客户程序提出的服务请求，进行相应的处理，再将结果返回给客户程序。
 
+
+
+
+## UDP+Python
+
+
+https://pymotw.com/2/socket/udp.html
