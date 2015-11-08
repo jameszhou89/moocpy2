@@ -20,4 +20,76 @@
 第三个文件就是1w课程的脚本，里面有如何读写和保存文档的函数。
 
 
+### 服务端
+
+
+    #server
+    # -*- coding: utf-8 -*-
+    import socket
+    import sys
+    import jamesdiary
+
+    # 建立协议，当client发送信息为keyword时，返回所有日记历史信息
+    KEYWORD = 'P'
+
+    def response1(sock, data, address):
+     ~~ (定义反应行为，如果接收到信息为KEYWORD，发回日记历史，否则则将信息记入日记)~~
+    if data == 'P':
+        history_message = jamesdiary.readdiary()
+        ~~（读取历史文件的数据~~）
+        sent = sock.sendto(history_message, address)
+        ~~（把文件的历史数据送到客户端）~~
+    else: 
+        sent = sock.sendto(data, address)
+         ~~（把当下输入的数据送到客户端）~~
+        jamesdiary.writediary(data)
+        ~~（把当下输入的数据更新到文件里面）~~
+    
+    def main():
+    # Create a TCP/IP socket
+    ~~（构建一个socket）~~
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+
+    # Bind the socket to the port
+    ~~(绑定socket到端口)~~
+    server_address = ('localhost', 10000)
+    sock.bind(server_address)
+   
+
+    while True:
+        data, address = sock.recvfrom(4096)
+        ~~（从客户端接受数据）~~
+        if data == 'q':
+            break
+        response1(sock, data, address)
+        ~~（进入判断语句）~~
+        sock.close()
+
+    if __name__ == '__main__':
+        main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
