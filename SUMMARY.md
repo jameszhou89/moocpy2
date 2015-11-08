@@ -26,7 +26,7 @@
    * [2w4](2w4.md)
    * [基础知识](jczsmd.md)
    * [try socket](try_socket.md)
-   * [3w课程完成篇1](3w_homework1md.md)
+   * [3w课程完成篇1](3whomework1md_md.md)
    * [3w课程完成篇2](3w homework2.md)
    * [Offline C2T2 W3](offline_c2t2 W3.md)
 * [Week4](week4.md)
