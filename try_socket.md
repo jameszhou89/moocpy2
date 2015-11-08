@@ -21,6 +21,9 @@
 
 ## 再理解UDP
 
+
+### 错误
+
 **发现之前的代码是STREAM，属于TCP/IP协议。😓 所以也就是为什么TCP/IP协议要不停的去listen，对吗？**
 
 按照wp-lai的提示，找到了这篇文档[：User Datagram Client and Server](https://pymotw.com/2/socket/udp.html)
@@ -33,6 +36,10 @@ Where TCP is a stream oriented protocol, ensuring that all of the data is transm
 
 以下图是socket的运行机制
 ![](socket.png)
+
+
+### 文档
+
 
 从User Datagram Client and Server这篇文档里面搜集到一些比较关键的信息
 
