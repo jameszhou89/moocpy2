@@ -37,15 +37,16 @@ jamescaller.py这个脚本就引用了jamesmod.py这个脚本的 get_text()函�
 
 ## 4.3w作业的讲解
 
-1）参数
+
+### 1）参数
 
 history_message = jamesdiary.readdiary()
 
 jamesdiary.writediary(**data**)
 
-为什么这两个函数都调用jamesdiary.py的函数，但是参数不一样？
+为什么这两个函数都调用jamesdiary.py的函数，但是（）里面的参数不一样？
 
-2）为什么Break要放到这里？
+### 2）为什么Break要放到这里？
 
     while True:
         data, address = sock.recvfrom(4096)
@@ -53,7 +54,7 @@ jamesdiary.writediary(**data**)
         if data == 'q':
             break
 
-
+（待补充）
 
 
 
