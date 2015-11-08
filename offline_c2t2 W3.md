@@ -56,6 +56,9 @@ jamesdiary.writediary(**data**)
 
 ### 2）为什么Break要这么放？
 
+在服务端，用户退出可以用if...break，不过应该放在哪里比较合适？
+
+为什么是放在服务端的主函数Main()里面？
 
     while True:
         data, address = sock.recvfrom(4096)
@@ -66,7 +69,7 @@ jamesdiary.writediary(**data**)
     sock.close()
 
 
-而不是这里？
+而不是放在对response1的定义里面？
 
     def response1(sock, data, address):
         if data == 'P':
