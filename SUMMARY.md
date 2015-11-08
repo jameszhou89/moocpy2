@@ -22,11 +22,11 @@
    * [wizzly的解决之道](wizzly's solution.md)
    * [Message控件](Message widget.md)
    * class
-* Week4
 * [Week3](week3.md)
    * [2w4](2w4.md)
    * [基础知识](jczsmd.md)
    * [try socket](try_socket.md)
    * [Offline C2T2 W3](offline_c2t2 W3.md)
    * Week4
+* Week4
 
