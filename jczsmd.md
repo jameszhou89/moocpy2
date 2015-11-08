@@ -4,7 +4,11 @@
 
 http://www.iterm2.com/index.html
 
+类型tumix的命令行工具，比较好用。
 
+![](iterm2.png)
+
+可以进行快速分屏，command+shift+D为上下分屏，command+D为左右分屏。
 
 ## UDP
 
