@@ -1,19 +1,19 @@
 # Offline C2T2
 
+今天主要讲了以下几个知识点
 
-
-## OSI参考模型
+## 1.OSI参考模型
 ![](NET.png)
 
 
 
-## wireshark
+## 2.wireshark
 https://www.wireshark.org/
 
 
 
 
-## import
+## 3.如何引用其他脚本的函数（import）
 
 jamesmod.py
     
@@ -27,6 +27,23 @@ jamescaller.py
     import jamesmod
     print "print history"
     print jamesmod.get_text()
+
+
+
+## 4.3w作业的讲解
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
