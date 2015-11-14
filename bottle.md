@@ -19,3 +19,6 @@
     
 安装成功
 ![](install bottle.png)
+
+
+3.极简交互式笔记的Web版本
