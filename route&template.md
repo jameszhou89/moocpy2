@@ -20,6 +20,10 @@
         password = request.forms.get('password')
         if username:
     	    return template("<p>Welcome {{name}}! You are now logged in.</p>", name=username)
+    	    
+    @route('/hello/<name>')
+    def greet(name='Stranger'):
+        return template('Hello {{name}}, how are you?', name=name)
     
     if __name__ == "__main__":
         run(host="localhost",port=8080,debug=True)
