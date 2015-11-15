@@ -28,7 +28,12 @@
 
 1）You can bind more than one route to a single callback
 
-2)
+2) route里加(method='POST')来跟同样路径的get行为进行区分
+
+3) 用bottle.request.forms.get(<nametag>)来获取post的数据
+
+4)template
+http://bottlepy.org/docs/dev/tutorial.html#templates
 
 
 
