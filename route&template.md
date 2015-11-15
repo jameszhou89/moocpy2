@@ -37,4 +37,6 @@
 3) 用bottle.request.forms.get(<nametag>)来获取post的数据
 
 4)template
+
 http://bottlepy.org/docs/dev/tutorial.html#templates
+http://bottlepy.org/docs/dev/stpl.html
