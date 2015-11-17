@@ -11,7 +11,9 @@
 
 [关键概念](http://www.sinacloud.com/doc/sae/tutorial/concept.html)
 
+[Linux/Mac用户入门指南](http://www.sinacloud.com/doc/sae/tutorial/helloworld-for-linux-mac.html)
 
+[python入门指南](http://www.sinacloud.com/doc/sae/python/tutorial.html)
 
 
 
