@@ -5,6 +5,14 @@
 
 官方文档：http://www.sinacloud.com/doc/sae/index.html
 
+注册成功！
+
+![](2015年11月18日 01-02-58.png)
+
+[关键概念](http://www.sinacloud.com/doc/sae/tutorial/concept.html)
+
+
+
 
 
 ## Paas/saas/iaas
@@ -26,3 +34,5 @@ http://www.chinacloud.cn/show.aspx?id=15342&cid=17
 ## 赖博士文档
 
 https://wp-lai.gitbooks.io/learn-python/content/1sTry/sae.html
+
+不断的学习中
