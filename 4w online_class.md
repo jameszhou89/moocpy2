@@ -15,6 +15,7 @@
 
 [python入门指南](http://www.sinacloud.com/doc/sae/python/tutorial.html)
 
+[服务列表¶](http://www.sinacloud.com/doc/sae/python/services.html)
 
 
 ## Paas/saas/iaas
