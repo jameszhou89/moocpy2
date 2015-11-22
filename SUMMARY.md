@@ -41,5 +41,5 @@
    * [4w online class](4w online_class.md)
    * [SAE入门](saeru_men.md)
    * [KVDB](kvdb.md)
-* Week6
+* [Week6](week6.md)
 
