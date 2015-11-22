@@ -33,6 +33,8 @@ index.wsgi
 实践了[Linux/Mac用户入门指南](http://www.sinacloud.com/doc/sae/tutorial/helloworld-for-linux-mac.html)出现了以下错误
 
 ![](myhello.png)
+于是在同样目录中放入Bottle.py以及index.wsgi等文件。
+
 
 接下来尝试了 [python 入门指南](http://www.sinacloud.com/doc/sae/python/tutorial.html#hello-world)
 发现也出现了同样的问题
