@@ -19,5 +19,18 @@ index.wsgi
         return "Hello, world! - Bottle"
     application = sae.create_wsgi_app(app)
     
+  遇到一个问题
+  ![](1.png)
+ 发现   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
