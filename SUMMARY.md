@@ -37,10 +37,10 @@
    * [4W代码1](4w_code1md.md)
    * [4w代码2](4w code2.md)
    * [Offline C2T2 W4](offline_c2t2_w4.md)
-* Week6
 * [Week5](week5.md)
    * [4w online class](4w online_class.md)
    * [SAE入门](saeru_men.md)
    * [KVDB](kvdb.md)
    * Week6
+* Week6
 
