@@ -5,9 +5,6 @@
 可以选择用pip安装
    
     $ pip install sae-python-dev
-    
-2.基本使用
-
 
 建立index.wsgi和config.yaml两个文件
 以sae官方的bottle代码为例
@@ -28,7 +25,7 @@ index.wsgi
 访问 http://localhost:8080 端口的时候不能访问应用。出现什么问题了吗？
 
 
-3.Linux/Mac用户入门指南
+2.Linux/Mac用户入门指南
     
 实践了[Linux/Mac用户入门指南](http://www.sinacloud.com/doc/sae/tutorial/helloworld-for-linux-mac.html)出现了以下错误
 
