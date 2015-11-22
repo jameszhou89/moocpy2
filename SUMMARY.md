@@ -39,4 +39,5 @@
    * [Offline C2T2 W4](offline_c2t2_w4.md)
 * [Week5](week5.md)
    * [4w online class](4w online_class.md)
+   * SAE入门
 
