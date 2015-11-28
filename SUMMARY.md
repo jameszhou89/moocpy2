@@ -43,4 +43,5 @@
    * [KVDB](kvdb.md)
 * [Week6](week6.md)
    * [5W online class](5w_online_class.md)
+* Week7
 
