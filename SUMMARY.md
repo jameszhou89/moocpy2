@@ -44,4 +44,5 @@
 * [Week6](week6.md)
    * [5W online class](5w_online_class.md)
 * [Week7](week7.md)
+   * 6w Online class
 
