@@ -12,7 +12,18 @@
 
 ## 加密
 
-通过运用两个内置的函数
+通过运用两个内置的库
+
+1）from hashlib import md5
+
+hashlib是个专门提供hash算法的库，现在里面包括md5, sha1, sha224, sha256, sha384, sha512，使用非常简单、方便。 
+md5经常用来做用户密码的存储。而sha1则经常用作数字签名。
+
+[官方文档](https://docs.python.org/2/library/hashlib.html)
+
+[中文文档](http://blog.csdn.net/tys1986blueboy/article/details/7229199)
+
+2)
 
 
 
