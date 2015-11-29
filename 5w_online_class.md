@@ -7,7 +7,9 @@
 
 * [d for d in range(2,x-1)]    #列出x以内的数字#
 * [x%d for d in range(2,x-1)] #对x求x以内的数字的余数#
-* #对#
+* 0 not in [x%d for d in range(2,x-1)] #判断哪些数的余数不是0#
+* [p for p in range(2,x-1) if 0 not in [p%d for d in range(2,p-1)] ]
+
 
 
 
