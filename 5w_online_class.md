@@ -12,7 +12,7 @@
 
 ## 加密
 
-通过运用两个内置的库
+通过结合两个内置的库 hashlib 和 Base64
 
 1）from hashlib import md5
 
