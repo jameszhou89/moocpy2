@@ -20,7 +20,7 @@ Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the 
 
 
 ## 组队
-![](ford.png)
+
 
 
 
