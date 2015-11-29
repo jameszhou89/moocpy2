@@ -19,11 +19,22 @@
 hashlib是个专门提供hash算法的库，现在里面包括md5, sha1, sha224, sha256, sha384, sha512，使用非常简单、方便。 
 md5经常用来做用户密码的存储。而sha1则经常用作数字签名。
 
+
+[hashlib介绍文档](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/0013868328251266d86585fc9514536a638f06b41908d44000)
+
 [官方文档](https://docs.python.org/2/library/hashlib.html)
 
 [中文文档](http://blog.csdn.net/tys1986blueboy/article/details/7229199)
 
-2)
+2) from base64 import urlsafe_b64encode, urlsafe_b64decode
+
+Base64是一种用64个字符来表示任意二进制数据的方法。
+
+用记事本打开exe、jpg、pdf这些文件时，我们都会看到一大堆乱码，因为二进制文件包含很多无法显示和打印的字符，所以，如果要让记事本这样的文本处理软件能处理二进制数据，就需要一个二进制到字符串的转换方法。Base64是一种最常见的二进制编码方法。
+
+[base64--廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000/001399413803339f4bbda5c01fc479cbea98b1387390748000)
+
+[Base64 编码原理简介和python的base64模块的使用](http://blog.csdn.net/magictong/article/details/2687183)
 
 
 
