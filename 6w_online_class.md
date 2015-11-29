@@ -16,3 +16,7 @@ Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the 
 [fabric理论学习--开源中国](http://my.oschina.net/guol/blog/97462)
 
 [Python fabric远程自动部署简介](http://lovesoo.org/python-fabric-yuan-cheng-zi-dong-bu-shu-jian-jie.html)
+
+
+
+
