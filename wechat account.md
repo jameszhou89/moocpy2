@@ -26,3 +26,24 @@ https://zoejane.gitbooks.io/omooc2py/content/1sTry/diary-weixin.html
 
 ## 填写服务器配置
 
+参考
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
