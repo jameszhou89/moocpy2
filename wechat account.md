@@ -31,7 +31,9 @@ https://zoejane.gitbooks.io/omooc2py/content/1sTry/diary-weixin.html
 
 1）廖雪峰：[微信公众平台后台接入简明指南](http://www.liaoxuefeng.com/article/0013900476318564121d01facf844cba508396f95d9bb82000)
 
+2）[微信公众平台开发(免费云BAE+高效优雅的Python+网站开放的API)](http://www.cnblogs.com/weishun/p/weixin-publish-developing.html)
 
+3）[一个用Python和Bottle实现基于微信公众平台API和SAE查询豆瓣电影的简单应用](http://kingson.org/?p=259)
 
 
 
