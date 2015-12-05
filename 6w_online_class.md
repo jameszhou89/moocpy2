@@ -19,6 +19,31 @@ Fabric is a Python (2.5-2.7) library and command-line tool for streamlining the 
 
 
 
+## Qpython
+
+http://www.qpython.com/
+
+http://wiki.qpython.org/
+
+In most cases, script can get your jobs done as good as the native application. 
+目前Qpython在谷歌play有百万的用户。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 组队
 
 
