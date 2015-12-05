@@ -16,8 +16,7 @@ https://zoejane.gitbooks.io/omooc2py/content/1sTry/diary-weixin.html
 
 ## 注册微信公众号
 
-![](wechat account1.jpg)
-
+注册了一个《James的黑板报》的微信公众号，微信号地址是： James-zhou89
 
 ## 注册成为开发者
 
