@@ -26,7 +26,14 @@ https://zoejane.gitbooks.io/omooc2py/content/1sTry/diary-weixin.html
 
 ## 填写服务器配置
 
-参考
+
+### 参考文章
+
+1）廖雪峰：[微信公众平台后台接入简明指南](http://www.liaoxuefeng.com/article/0013900476318564121d01facf844cba508396f95d9bb82000)
+
+
+
+
 
 
 
