@@ -35,6 +35,7 @@ https://zoejane.gitbooks.io/omooc2py/content/1sTry/diary-weixin.html
 
 3）[一个用Python和Bottle实现基于微信公众平台API和SAE查询豆瓣电影的简单应用](http://kingson.org/?p=259)
 
+4）[在SAE上搭建微信公众平台账号消息服务器](http://www.cnblogs.com/gzb1985/archive/2012/12/30/weixin-msg-server-based-on-sae-python.html)
 
 
 
