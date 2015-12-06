@@ -47,4 +47,5 @@
 * [Week7](week7.md)
    * [6w Online class](6w_online_class.md)
    * [Project proposal](project_proposal.md)
+   * c2t2 7w
 
