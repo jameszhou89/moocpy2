@@ -1,7 +1,6 @@
 # Summary
 
 * [勇猛精进](README.md)
-   * Week8
 * [Before class](beforeclassmd.md)
    * [历史](history.md)
    * [报名开智](bao_ming.md)
@@ -45,6 +44,7 @@
 * [Week6](week6.md)
    * [5W online class](5w_online_class.md)
    * [微信公众号](wechat account.md)
+* Week8
 * [Week7](week7.md)
    * [6w Online class](6w_online_class.md)
    * [Project proposal](project_proposal.md)
