@@ -39,6 +39,17 @@
 参考了[入门指南](http://www.sinacloud.com/doc/sae/python/tutorial.html#shi-yong-web-kai-fa-kuang-jia)，进行了初步的创建和部署
 ![](helloworldcd.png)
 
+
+### 但是，实际情况要更复杂！
+
+跟赖博士请教了下，了解到了部署的坑
+
+需要通读[代码部署手册](http://www.sinacloud.com/doc/sae/tutorial/code-deploy.html#svn)
+
+同时，需要在SAE中check [sae代码管理面板](http://sae.sina.com.cn/?m=vermng&app_id=myhello89&ver=1)
+
+
+
 ##微信公众号填写服务器配置
 
 首先要了解的是什么是URL和Token。
