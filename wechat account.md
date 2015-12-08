@@ -62,6 +62,33 @@ URL就是放置了接口程序的网址，这个网址一般得是你自己的�
 ### 问题
 输入设定的URL和Token之后，出现了 「token验证失败」或者「URL请求超时」
 
+以下是解答：
+
+    *信息填写完成后，点击提交，会提示认证“服务器未正确响应的Token验证”，这是正常的，因为我们虽然创建了SAE应用，但没有处理接口验证消息。点击提交时，微信服务器会发送一条Http GET 请求，
+    携带signature、timestamp、nouce和echostr四个参数，对URL进行合法性的校验*
+    
+所以我们需要在index.wsgi写入以下代码：
+
+见以下两篇文章
+
+http://www.cnblogs.com/weishun/p/weixin-publish-developing.html
+
+http://www.cnblogs.com/gzb1985/archive/2012/12/30/weixin-msg-server-based-on-sae-python.html
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
 
 
 
