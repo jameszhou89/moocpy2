@@ -44,9 +44,9 @@
 * [Week6](week6.md)
    * [5W online class](5w_online_class.md)
    * [微信公众号](wechat account.md)
-* Week8
 * [Week7](week7.md)
    * [6w Online class](6w_online_class.md)
    * [Project proposal](project_proposal.md)
    * [c2t2 7w](c2t2_7w.md)
+* Week8
 
