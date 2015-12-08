@@ -31,7 +31,15 @@
 1)实名认证SAE帐号
 ![](sae_test.png)
 
-##填写服务器配置
+2）创建了communitydata这个应用
+![](pycd1.png)
+
+3)communitydata应用在SAE上的创建和部署
+
+参考了[入门指南](http://www.sinacloud.com/doc/sae/python/tutorial.html#shi-yong-web-kai-fa-kuang-jia)，进行了初步的创建和部署
+![](helloworldcd.png)
+
+##微信公众号填写服务器配置
 
 首先要了解的是什么是URL和Token。
 
@@ -41,6 +49,9 @@ URL就是放置了接口程序的网址，这个网址一般得是你自己的�
 
 
 输入设定的URL和Token之后，出现了 「token验证失败」或者「URL请求超时」
+
+入门指南
+
 
 
 
