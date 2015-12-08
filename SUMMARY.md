@@ -48,5 +48,5 @@
    * [6w Online class](6w_online_class.md)
    * [Project proposal](project_proposal.md)
    * [c2t2 7w](c2t2_7w.md)
-* Week8
+* [Week8](week8.md)
 
