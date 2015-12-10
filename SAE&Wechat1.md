@@ -2,7 +2,7 @@
 
 1.在SAE上创建Python应用
 
-
+![](cdata1.png)
 
 2.在SAE上部署代码
 
