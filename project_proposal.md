@@ -47,18 +47,5 @@
 
 
 
-## 目前进展
-
-具体来讲就是 微信API+SAE+Bottle+金数据API
-
-1.找到参考文献
-一个用Python和Bottle实现基于微信公众平台API和SAE查询豆瓣电影的简单应用
-http://kingson.org/?p=259
-
-
-
-2.得到金数据的API
-![](jinshuju.jpg)
-
 
 
