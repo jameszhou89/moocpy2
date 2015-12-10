@@ -24,7 +24,8 @@
 
 @wp-lai做我们的观察员
 
-项目会在github上进行协同开发，晚点会给出链接。
+项目会在github上进行协同开发。链接如下：
+https://github.com/jameszhou89/communitydata
 
 同时由于我跟cher都在七宝附近，可以坚持每周见一次的节奏。
 
