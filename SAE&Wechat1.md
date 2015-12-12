@@ -17,7 +17,21 @@
 
 1)消息接口配置
 
+填写urL 
+    
+    2.cdata1.sinaapp.com 
 
+其中2是指第二个版本。并填写token
 
 
 2)消息接口验证（网址接入）
+
+在这个过程中由于忘记填写 request
+    
+    "from bottle import Bottle, run, route, request"
+导致服务器不能正确配置，微信平台服务器配置无法正常启用。
+
+
+
+
+
