@@ -54,6 +54,8 @@
     "from bottle import Bottle, run, route, request"
 导致服务器不能正确配置，微信平台服务器配置无法正常启用。
 
+修改代码之后，接入成功！
+![](deploy2.png)
 
 
 
