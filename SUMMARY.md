@@ -50,6 +50,6 @@
    * [c2t2 7w](c2t2_7w.md)
 * [Week8](week8.md)
    * [项目启动和规划](project on the run.md)
+   * 微信消息推送和回复
    * [接入微信公众号](SAE&Wechat1.md)
-* 微信消息推送和回复
 
