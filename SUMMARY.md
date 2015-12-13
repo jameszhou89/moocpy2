@@ -52,5 +52,5 @@
    * [项目启动和规划](project on the run.md)
    * [接入微信公众号](SAE&Wechat1.md)
    * [微信消息推送和回复](weixin@jinshuju.md)
-   * 金数据
+   * [金数据](jin_shu_ju.md)
 
