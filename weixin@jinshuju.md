@@ -6,10 +6,13 @@
 
 
 
+divide&conquer
+
+
+
+
+
+
 伪代码
 
 
-
-
-
-divide&conquer
