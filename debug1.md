@@ -47,6 +47,30 @@
     
 经过这样的调整，似乎这个bug就解决了
 
+* 金数据端
+
+没有出现错误提示
+
+![](jsj3.jpg)
+
+* SAE服务器端
+
+SAE给金数据返回了 statuscode为 200
+![](jsj2.jpg)
+
+statuscode==200   （成功）  
+服务器已成功处理了请求。 通常，这表示服务器提供了请求的网页。
+
+参考HTTP协议状态码详解（HTTP Status Code）
+http://www.cnblogs.com/shanyou/archive/2012/05/06/2486134.html
+
+
+
+
+
+
+
+
 
 
 
