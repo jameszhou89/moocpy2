@@ -46,6 +46,8 @@
         return data
 
     @app.route('/weixin')
+    "配置微信服务器
+    "
 
     def check_signature():
         token ='cdata1'
@@ -77,7 +79,7 @@
 
     def response_msg(recvmsg, content):
     """将金数据的内容从jason格式转化为xml,并发送给微信公众平台
-       recvmsg是指从金数据拿到的数据
+       recvmsg是指从微信拿到的数据
        content是指金数据的内容
     """
     recvmsg = request.body.read() 
