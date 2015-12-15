@@ -113,13 +113,13 @@
             return None
 
 
-application = sae.create_wsgi_app(app)
+    application = sae.create_wsgi_app(app)
 
-if __name__ == "__main__":
-    app.run(debug=True)
+    if __name__ == "__main__":
+        app.run(debug=True)
 
-#from bae.core.wsgi import WSGIApplication
-#application = WSGIApplication(app)
+    #from bae.core.wsgi import WSGIApplication
+    #application = WSGIApplication(app)
 
 
 
