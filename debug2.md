@@ -25,6 +25,11 @@
 ![](58.pic.jpg)
 
 根据赖博士的提示，修改好，然后进行测试。通过借用微信公众平台接口调试工具，检查是否获取access_token
+![](access_token.png)
+
+"access_token": "ErC9YnGP3PM7GrVja8oEvVH5wiz2AP25xhLxDw2KO-i9fqCdJzQXCzAwEKBsXoi5C-KTul-78Qn_KCInmilMYFYOwuK431ilfYA5fnEbQHoEIObAIAOSY", 
+    "expires_in": 7200
+}
 
 
 
