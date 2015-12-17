@@ -12,4 +12,12 @@
 
 http://mp.weixin.qq.com/wiki/17/fc9a27730e07b9126144d9c96eaf51f9.html
 
+出现问题了
 
+微信公众平台接口调试工具
+
+![](request fault.png)
+
+SAE日志中心
+
+![](sae log.png)
