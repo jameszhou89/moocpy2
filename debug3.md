@@ -36,4 +36,5 @@ https://wp-lai.gitbooks.io/learn-python/content/1sTry/wechat.html
 
 说明都走通了，问题出现在金数据/sae/微信三者的交互上。
 
+所以说，当发现有问题的时候，要从最原始的状态去测试，先确保基本框架可行再继续测试更复杂的内容。
 
