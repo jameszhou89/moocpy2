@@ -21,3 +21,19 @@ http://mp.weixin.qq.com/wiki/17/fc9a27730e07b9126144d9c96eaf51f9.html
 SAE日志中心
 
 ![](sae log.png)
+
+3.进一步测试
+
+为了确定问题在哪里，我尝试了赖博士的方法。
+
+先尝试做一个echo server，把用户发送的信息原封不动回复回去
+
+https://wp-lai.gitbooks.io/learn-python/content/1sTry/wechat.html
+
+结果是，实现了这个功能。
+
+![](echo.jpg)
+
+说明都走通了，问题出现在金数据/sae/微信三者的交互上。
+
+
