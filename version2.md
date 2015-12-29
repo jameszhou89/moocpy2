@@ -82,7 +82,27 @@
 官方文档在这里
 http://www.sinacloud.com/doc/sae/python/kvdb.html
 
+同时参考赖博士之前的文档
 
+    import sae.kvdb
+    count = 0 # 设置计数器
+    kv = sae.kvdb.Client()
+
+    # 将数据存进数据库
+    def insert_into_db(post):
+        global count
+        count += 1
+        ctime = time.ctime()
+        key = 'key' + str(count) 
+        value = {'time':ctime,'content':post}
+        kv.set(key,value)
+
+    # 读取数据库中的日记信息
+    def get_all_data():
+        results = []
+        for item in kv.get_by_prefix('key'):
+            results.append(item[1])
+        return results
 
 
 
