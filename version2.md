@@ -77,7 +77,8 @@
 
 ## 2. 值得注意的几个要点
 
-1.kvdb的使用方法
+
+### 1.kvdb的使用方法
 
 官方文档在这里
 http://www.sinacloud.com/doc/sae/python/kvdb.html
@@ -104,7 +105,7 @@ http://www.sinacloud.com/doc/sae/python/kvdb.html
             results.append(item[1])
         return results
 
-2.Json概述以及python对json的相关操作
+### 2.Json概述以及python对json的相关操作
 
 参考这篇文献
 
