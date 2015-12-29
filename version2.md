@@ -77,6 +77,12 @@
 
 ## 2. 值得注意的几个要点
 
+1.kvdb的使用方法
+
+官方文档在这里
+http://www.sinacloud.com/doc/sae/python/kvdb.html
+
+
 
 
 
