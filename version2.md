@@ -104,5 +104,9 @@ http://www.sinacloud.com/doc/sae/python/kvdb.html
             results.append(item[1])
         return results
 
+2.Json概述以及python对json的相关操作
 
+参考这篇文献
+
+http://www.cnblogs.com/coser/archive/2011/12/14/2287739.html
 
