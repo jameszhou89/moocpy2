@@ -6,6 +6,7 @@
    * [报名开智](bao_ming.md)
    * [三问](3questions.md)
 * [Week0](week0md.md)
+   * git版本库
    * [gitbook&github](gitbook&github.md)
        * git版本库
    * [插件Disqus](cha_jian_disqus.md)
