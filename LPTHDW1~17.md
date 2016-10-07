@@ -39,6 +39,9 @@ fileObject.seek(offset, whence)
 ![](split.png)
 
 
+4)pop()函数
+pop()方法从列表移除并返回最后一个对象或obj。
+[参考脚本之家](http://www.jb51.net/article/66459.htm)
 
 
 
