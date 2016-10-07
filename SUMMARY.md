@@ -12,7 +12,6 @@
    * [github的使用规则](github rules.md)
    * [错误1](mistake1.md)
    * [笨办法学python1](learnhardpython1.md)
-   * Week0.1
 * [Week0.1](week01.md)
 * [Week1](week1.md)
    * [offline c2t2](offline_c2t2.md)
