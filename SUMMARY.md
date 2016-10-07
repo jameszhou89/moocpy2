@@ -13,7 +13,7 @@
    * [错误1](mistake1.md)
    * [笨办法学python1](learnhardpython1.md)
 * [Week0.1](week01.md)
-   * [笨办法](LPTHDW1~17.md)
+   * [笨办法1](LPTHDW1~17.md)
 * [Week1](week1.md)
    * [offline c2t2](offline_c2t2.md)
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
