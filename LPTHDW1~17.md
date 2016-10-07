@@ -43,6 +43,21 @@ fileObject.seek(offset, whence)
 pop()方法从列表移除并返回最后一个对象或obj。
 [参考脚本之家](http://www.jb51.net/article/66459.htm)
 
+5）理解module
+第25个练习真的非常重要！这道习题中，把一部分的代码当做一个模组，放到编译器里面，然后编译器通过import这个module去执行里面的函数。
+就像[习题 20: 函数和文件](http://www.jb51.net/shouce/Pythonbbf/latest/ex20.html)里面一样，from sys import argv是什么意思呢？
+[参看知乎](https://www.zhihu.com/question/23711222)
+---
+sys是Python的一个「标准库」，也就是官方出的「模块」，是「System」的简写，封装了一些系统的信息和接口，官方的文档请戳： [System-specific parameters and functions](https://docs.python.org/2/library/sys.html)
+
+---
+所以 argv也只是 sys 模组里面的一个函数。同样，break_words也是 模组的一个函数。
+
+『第 7 行你使用 ex25 调用你的第一个函数 ex25.break_words。其中的 . (dot, period)符号可以告诉 Python：“嗨，我要运行 ex25 里的哪个个叫 break_words 的函数！”』
+
+
+
+
 
 
 
