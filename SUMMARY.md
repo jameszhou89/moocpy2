@@ -5,6 +5,7 @@
    * [历史](history.md)
    * [报名开智](bao_ming.md)
    * [三问](3questions.md)
+* Week0.1
 * [Week0](week0md.md)
    * [gitbook&github](gitbook&github.md)
    * [git版本库](gitban_ben_ku.md)
