@@ -23,5 +23,10 @@
 比较有效的是[这篇文章](http://www.jb51.net/shouce/Pythonbbf/latest/ex16.html)，里面涉及到了大部分新的知识。
 
 
+## 笨办法18~22课
 
+这几节课主要学习了函数、变量和文件。
 
+有几个新知识点
+1）[readline](http://zhidao.baidu.com/link?url=cO0XTPkeGN-y0QGPdwV09WzL1KSZOI0-UKzlOVyG4JCNTSL7hpU9LcvxQTmmhGV4XnIMzfn2T0EibciV5qNE8GAGdax_aQcd7758IUbwROC) 
+readline和readlines，read都是用来读取文件内容，readline()每次读取一行，当前位置移到下一行；readlines()读取整个文件所有行，保存在一个列表(list)变量中，每行作为一个元素；read(size)从文件当前位置起读取size个字节（如果文件结束，就读取到文件结束为止），如果size是负值或省略，读取到文件结束为止，返回结果是一个字符串。
