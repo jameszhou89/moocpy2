@@ -23,6 +23,8 @@
 
 变量、字符串打印、raw_input、参数、解包、读写文件。
 
+比较有效的是[这篇文章](http://www.jb51.net/shouce/Pythonbbf/latest/ex16.html)，里面涉及到了大部分新的知识。
+
 
 
 
