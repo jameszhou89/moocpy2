@@ -11,7 +11,6 @@
    * [插件Disqus](cha_jian_disqus.md)
    * [github的使用规则](github rules.md)
    * [错误1](mistake1.md)
-   * [笨办法学python1](learnhardpython1.md)
 * [Week0.1](week01.md)
    * [笨办法1](LPTHDW1~17.md)
    * [笨办法2](ben_ban_fa_2.md)
