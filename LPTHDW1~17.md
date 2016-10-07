@@ -23,7 +23,7 @@
 比较有效的是[这篇文章](http://www.jb51.net/shouce/Pythonbbf/latest/ex16.html)，里面涉及到了大部分新的知识。
 
 
-## 笨办法18~22课
+## 笨办法18~26课
 
 这几节课主要学习了函数、变量和文件。
 
@@ -42,3 +42,11 @@ fileObject.seek(offset, whence)
     whence -- 这是可选的，默认为0，这意味着绝对的文件定位，其它的值是1，这意味着寻求相对于当前位置，2表示相对于文件的末尾。
 
 [参考实践](http://www.jb51.net/article/66631.htm)
+
+
+
+
+
+
+
+
