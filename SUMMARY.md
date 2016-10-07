@@ -5,7 +5,6 @@
    * [历史](history.md)
    * [报名开智](bao_ming.md)
    * [三问](3questions.md)
-* Week0.1
 * [Week0](week0md.md)
    * [gitbook&github](gitbook&github.md)
    * [git版本库](gitban_ben_ku.md)
@@ -14,6 +13,7 @@
    * [错误1](mistake1.md)
    * [笨办法学python1](learnhardpython1.md)
    * Week0.1
+* Week0.1
 * [Week1](week1.md)
    * [offline c2t2](offline_c2t2.md)
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
