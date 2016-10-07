@@ -31,7 +31,12 @@ fileObject.seek(offset, whence)
 
 [参考实践](http://www.jb51.net/article/66631.htm)
 
+3)split 函数
 
+不同格式的文本，不一样的操作方法
+
+[参考stackflow](http://stackoverflow.com/questions/20826788/str-split-giving-me-valueerror-empty-separator-for-a-sentence-in-the-for)
+![](split.png)
 
 
 
