@@ -1,6 +1,9 @@
 # 笨办法3
 
-第39个习题
+
+## 第39个习题1
+
+
 mystuff.append('hello') 这样代码的执行过程
 
 ![](mystuff.png)
@@ -9,16 +12,19 @@ mystuff.append('hello') 这样代码的执行过程
 3）发了真正的事情，append(mystuff,"hello")
 
 
-第39个习题
 
-```state = states.get('Texas', None)
+## 第39个习题2
 
-if not state:
-    print "Sorry, no Texas."
+```city = cities.get('TX', 'Does Not Exist')
+print "The city for the state 'TX' is: %s" % city
 ```
+Output: the city for the state "TX" is Does Not Exist.
 
 Python 字典(Dictionary) get() 函数返回指定键的值，如果值不在字典中返回默认值。
-[参考](http://www.runoob.com/python/att-dictionary-get.html)
+点击[参考](http://www.runoob.com/python/att-dictionary-get.html)链接
+
+
+
 
 
 
