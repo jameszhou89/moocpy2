@@ -15,6 +15,7 @@
    * [笨办法1](LPTHDW1~17.md)
    * [笨办法2](ben_ban_fa_2.md)
    * [笨办法3](ben_ban_fa_3.md)
+   * 笨方法4
 * [Week1](week1.md)
    * [offline c2t2](offline_c2t2.md)
    * [0wd4 公开课](0wd4_gong_kai_ke.md)
