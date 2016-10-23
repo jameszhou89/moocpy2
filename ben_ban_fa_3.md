@@ -83,7 +83,11 @@ bobo.Run()
 
 [python中的class 翻译](http://blog.csdn.net/on_1y/article/details/8640012)
 
-同时，还可以通过codeacademy上面的课程，进一步了解
+同时，还可以通过codeacademy上面的python课程，进一步了解。有点手把手教学的感觉，很仔细。
+
+另外还可以看一下这篇文章：[What is a metaclass in Python?](http://stackoverflow.com/questions/100003/what-is-a-metaclass-in-python)
+
+
 
 
 
