@@ -75,10 +75,15 @@ bobo.Run()
 >> Running```
 
 
+### 正确认识class 2.0
 
+可以阅读这一篇官方文档
 
+[python中的class 官方](https://docs.python.org/2/tutorial/classes.html)
 
+[python中的class 翻译](http://blog.csdn.net/on_1y/article/details/8640012)
 
+同时，还可以通过codeacademy上面的课程，进一步了解
 
 
 
