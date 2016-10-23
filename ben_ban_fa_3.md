@@ -15,9 +15,13 @@ mystuff.append('hello') 这样代码的执行过程
 
 ## 第39个习题2
 
-```city = cities.get('TX', 'Does Not Exist')
+代码
+
+city = cities.get('TX', 'Does Not Exist')
+
 print "The city for the state 'TX' is: %s" % city
-```
+
+
 Output: the city for the state "TX" is Does Not Exist.
 
 Python 字典(Dictionary) get() 函数返回指定键的值，如果值不在字典中返回默认值。
