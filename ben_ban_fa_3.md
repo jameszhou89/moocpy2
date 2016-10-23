@@ -52,8 +52,8 @@ class实在是太难了。
 
 ```# 例：类的继承
 class CAnimal:
-  def __init__(self,voice='hello'): # voice初始化默认为hello
-    self.voice = voice
+  def __init__(self,voice='hello'): # voice初始化默认为hello,重载构造函数
+    self.voice = voice               # 创建成员变量并赋初始值
   def Say(self):
     print self.voice
   def Run(self):
