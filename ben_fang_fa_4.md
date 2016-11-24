@@ -38,3 +38,9 @@
         ```
         
      partimeemployee的薪水是 override，但是 full_time_wage是引用其super class的函数的
+     
+     
+     
+   
+##   2.笨办法学python第40题
+
