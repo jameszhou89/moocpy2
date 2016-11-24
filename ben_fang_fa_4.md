@@ -36,3 +36,5 @@
    milton = PartTimeEmployee("James")
    print milton.full_time_wage(20)
         ```
+        
+     partimeemployee的薪水是 override，但是 full_time_wage是引用其super class的函数的
