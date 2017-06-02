@@ -1,46 +1,50 @@
 # 笨方法4
 
-
-
 ## 1.codeacademy 练习
 
+1）However, it's overwhelmingly common to use self as the first parameter in **init**\(\)；
 
-   1）However, it's overwhelmingly common to use self as the first parameter in __init__()；
-   
-   2）Python will use the first parameter that __init__() receives to refer to the object being created;
-   
-   3）
-   ```
+2）Python will use the first parameter that **init**\(\) receives to refer to the object being created;
+
+3）
+
+```
    class Employee(object):
     """Models real-life employees!"""
-    
+
     def __init__(self, employee_name):
         self.employee_name = employee_name
-        
+
     def calculate_wage(self, hours):
         self.hours = hours
-        return hours * 20.00```
-        
-        
-  ```
+        return hours * 20.00
+```
+
+```
   class PartTimeEmployee(Employee):
     def calculate_wage(self,hours):
         self.hours = hours
         return hours* 12.00
-        
+
     def full_time_wage(self,hours):
         self.hours = hours
-        return super(PartTimeEmployee,self).calculate_wage(hours)```
-        
-   ```
+        return super(PartTimeEmployee,self).calculate_wage(hours)
+```
+
+```
    milton = PartTimeEmployee("James")
    print milton.full_time_wage(20)
-        ```
-        
-     partimeemployee的薪水是 override，但是 full_time_wage是引用其super class的函数的
-     
-     
-     
-   
-##   2.笨办法学python第40题
+```
+
+```
+ partimeemployee的薪水是 override，但是 full_time_wage是引用其super class的函数的
+```
+
+## 2.笨办法学python第41题
+
+![](/assets/2.png)
+
+      字典里面的逻辑关系
+
+
 
