@@ -44,7 +44,17 @@
 
 ![](/assets/2.png)
 
-      字典里面的逻辑关系
+```
+  字典里面的逻辑关系
+```
 
 
+
+### 3.笨办法学python第42题
+
+![](/assets/import.png)
+
+在这里面第36行，a.number是参数base的具体值，X是TheMultiplier的一个 instance 
+
+x这个instance在第37行业调用了函数do\_it，b.number是这个函数的参数m的值。
 
