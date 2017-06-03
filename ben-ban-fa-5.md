@@ -22,5 +22,7 @@
 
 5.局部变量和全局变量
 
-![](/assets/impor5t.png)![](/assets/import2.png)
+![](/assets/impor5t.png)![](/assets/import2.png)6.默认参数
+
+![](/assets/import6.png)
 
