@@ -16,25 +16,9 @@ p.load  # Read back from the storage
 
 ![](/assets/im789port.png)
 
-12. try finally
+10.try finally
 
 假如你在读一个文件的时候，希望在无论异常发生与否的情况下都关闭文件，该怎么做呢？这可以使用`finally`块来完成。注意，在一个`try`块下，你可以同时使用`except`从句和`finally`块。如果你要同时使用它们的话，需要把一个嵌入另外一个。
 
 ![](/assets/i9import.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
