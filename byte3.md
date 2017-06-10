@@ -8,8 +8,8 @@ Python提供一个标准的模块，称为`pickle`。使用它你可以在一个
 
 ```
 import cPickle as p
-p.dump
-p.load
+p.dump # dump the object to a file
+p.load  # Read back from the storage
 ```
 
 
