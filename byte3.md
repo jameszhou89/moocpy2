@@ -30,7 +30,7 @@ p.load  # Read back from the storage
 
 
 
-12. list.pop\(\)
+12.list.pop\(\)
 
 `list.pop([i])`
 
