@@ -22,3 +22,11 @@ p.load  # Read back from the storage
 
 ![](/assets/i9import.png)
 
+11. sys.argv
+
+关于文件的参数，非常重要的一章
+
+http://www.kuqin.com/abyteofpython\_cn/ch14s02.html
+
+
+
