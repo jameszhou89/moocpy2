@@ -19,7 +19,7 @@
   * [Byte1](ben-ban-fa-5.md)
   * [Byte2](byte2.md)
   * [Byte3](byte3.md)
-  * [Academy1](byte4.md)
+  * [Academy1](academy1.md)
 * [Week1](week1.md)
   * [offline c2t2](offline_c2t2.md)
   * [0wd4 公开课](0wd4_gong_kai_ke.md)
